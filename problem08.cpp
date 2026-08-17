@@ -1,5 +1,6 @@
 //Problem #8: Write a program to ask the user to enter a Mark, then Print "Pass" if Mark ≥ 50, otherwise Print "Fail".
-//(before checking Dr's solution; just for learning by trying to mimic the approach of  clean style of divide & conquer)
+// mimicing the clean style with the approach of divide & conquer while using the primitive programming concepts in c++
+// there is better
 #include <iostream>
 using namespace std;
 
